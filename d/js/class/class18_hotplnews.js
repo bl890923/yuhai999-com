@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/guanyu/jianjie/index.html\" title=\"公司简介\">公司简介</a></li><li><a href=\"/guanyu/wenhua/index.html\" title=\"企业文化\">企业文化</a></li><li><a href=\"/guanyu/zhici/index.html\" title=\"领导致辞\">领导致辞</a></li><li><a href=\"/guanyu/zuzhi/index.html\" title=\"组织架构\">组织架构</a></li><li><a href=\"/guanyu/lianxi/index.html\" title=\"联系我们\">联系我们</a></li>");

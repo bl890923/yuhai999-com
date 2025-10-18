@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/guanyu/zhici/index.html\" title=\"领导致辞\">领导致辞</a></li>");

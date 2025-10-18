@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/guanyu/lianxi/index.html\" title=\"联系我们\">联系我们</a></li>");
